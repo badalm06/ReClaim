@@ -1,0 +1,7 @@
+langchain
+langchain-anthropic
+anthropic
+razorpay
+pandas
+streamlit
+python-dotenv

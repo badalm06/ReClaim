@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+audit/audit.db
+venv/
+.venv/
+.DS_Store
+Thumbs.db
+.streamlit/
