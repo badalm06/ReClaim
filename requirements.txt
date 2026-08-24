@@ -1,6 +1,6 @@
 langchain
-langchain-anthropic
-anthropic
+langchain-openai
+openai
 razorpay
 pandas
 streamlit
