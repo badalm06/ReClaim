@@ -1,0 +1,61 @@
+event_id,payment_id,merchant_id,merchant_name,customer_id,customer_name,customer_email,customer_phone,amount_inr,currency,payment_method,failure_reason,failure_type,recovery_potential,retry_count,permanently_blocked,event_timestamp,status,recovery_status
+EVT_1001,pay_131994523,MID_002,ZapShop,CID_2679,Karan Mehta,karan.mehta@gmail.com,9826600539,24469,INR,card,card_expired,payment_failure,low,3,True,2026-08-04 11:37:00,failed,pending
+EVT_1002,pay_582334538,MID_002,ZapShop,CID_9279,Pooja Rao,pooja.rao@gmail.com,9746412689,1068,INR,card,insufficient_funds,payment_failure,medium,3,False,2026-08-05 15:45:00,failed,pending
+EVT_1003,pay_209747451,MID_003,EduLearn Pro,CID_3615,Aarav Sharma,aarav.sharma@gmail.com,9849621470,2999,INR,card,mandate_rejected,subscription_failure,low,1,False,2026-07-22 17:09:00,failed,pending
+EVT_1004,pay_234031070,MID_004,FoodieHub,CID_6881,Sneha Nair,sneha.nair@gmail.com,9469319644,19981,INR,card,insufficient_funds,payment_failure,medium,3,False,2026-07-17 10:46:00,failed,pending
+EVT_1005,pay_149203558,MID_001,Kirana Plus,CID_5803,Tanya Kapoor,tanya.kapoor@gmail.com,9990566476,20798,INR,upi,upi_timeout,payment_failure,high,1,False,2026-08-09 20:36:00,failed,pending
+EVT_1006,pay_497478786,MID_002,ZapShop,CID_2307,Ananya Singh,ananya.singh@gmail.com,9349957310,11619,INR,netbanking,invoice_overdue,receivable,medium,2,False,2026-07-25 17:29:00,failed,pending
+EVT_1007,pay_596348124,MID_002,ZapShop,CID_2169,Suresh Kumar,suresh.kumar@gmail.com,9754049436,21005,INR,netbanking,bank_blocked,payment_failure,low,1,False,2026-07-12 02:46:00,failed,pending
+EVT_1008,pay_530747414,MID_003,EduLearn Pro,CID_4598,Tanya Kapoor,tanya.kapoor@gmail.com,9835098955,10825,INR,upi,upi_timeout,payment_failure,high,0,False,2026-08-23 10:14:00,failed,pending
+EVT_1009,pay_384412919,MID_001,Kirana Plus,CID_6155,Amit Gupta,amit.gupta@gmail.com,9328306011,21676,INR,card,wrong_cvv,payment_failure,high,3,False,2026-08-01 21:56:00,failed,pending
+EVT_1010,pay_335493870,MID_002,ZapShop,CID_9830,Tanya Kapoor,tanya.kapoor@gmail.com,9382116655,24677,INR,upi,network_timeout,payment_failure,high,3,False,2026-08-07 22:57:00,failed,pending
+EVT_1011,pay_740389325,MID_005,HealthFirst,CID_2489,Shreya Malhotra,shreya.malhotra@gmail.com,9911514914,1742,INR,upi,network_timeout,payment_failure,high,1,False,2026-07-08 13:40:00,failed,pending
+EVT_1012,pay_906248900,MID_004,FoodieHub,CID_8668,Arjun Desai,arjun.desai@gmail.com,9668132202,8437,INR,card,insufficient_funds,payment_failure,medium,0,False,2026-08-05 09:43:00,failed,pending
+EVT_1013,pay_918150683,MID_003,EduLearn Pro,CID_5808,Sneha Nair,sneha.nair@gmail.com,9566825638,5381,INR,card,wrong_cvv,payment_failure,high,2,False,2026-07-30 09:46:00,failed,pending
+EVT_1014,pay_679153816,MID_005,HealthFirst,CID_5889,Sneha Nair,sneha.nair@gmail.com,9786066793,16834,INR,upi,network_timeout,payment_failure,high,2,False,2026-08-08 15:09:00,failed,pending
+EVT_1015,pay_162196678,MID_001,Kirana Plus,CID_6310,Riya Chatterjee,riya.chatterjee@gmail.com,9624636385,499,INR,card,subscription_lapsed,subscription_failure,medium,2,False,2026-07-08 20:56:00,failed,pending
+EVT_1016,pay_808402051,MID_005,HealthFirst,CID_2403,Rohit Verma,rohit.verma@gmail.com,9885879795,16123,INR,card,card_expired,payment_failure,low,1,False,2026-08-22 11:48:00,failed,pending
+EVT_1017,pay_528414718,MID_005,HealthFirst,CID_5342,Divya Iyer,divya.iyer@gmail.com,9666585408,20075,INR,card,checkout_abandoned,checkout_dropout,medium,1,False,2026-07-28 15:59:00,failed,pending
+EVT_1018,pay_731691672,MID_003,EduLearn Pro,CID_9479,Nikhil Bose,nikhil.bose@gmail.com,9584779555,12930,INR,netbanking,invoice_overdue,receivable,medium,2,False,2026-07-16 16:04:00,failed,pending
+EVT_1019,pay_133729406,MID_002,ZapShop,CID_4608,Siddharth Nair,siddharth.nair@gmail.com,9107721109,499,INR,card,subscription_lapsed,subscription_failure,medium,1,False,2026-08-16 05:03:00,failed,pending
+EVT_1020,pay_718702544,MID_001,Kirana Plus,CID_4899,Rahul Mishra,rahul.mishra@gmail.com,9399012686,22120,INR,netbanking,bank_blocked,payment_failure,low,1,False,2026-08-01 15:34:00,failed,pending
+EVT_1021,pay_541417711,MID_002,ZapShop,CID_7669,Shreya Malhotra,shreya.malhotra@gmail.com,9304451095,3289,INR,card,checkout_abandoned,checkout_dropout,medium,2,False,2026-07-08 06:27:00,failed,pending
+EVT_1022,pay_675832441,MID_001,Kirana Plus,CID_1993,Sneha Nair,sneha.nair@gmail.com,9532311310,24061,INR,card,checkout_abandoned,checkout_dropout,medium,1,False,2026-07-22 12:15:00,failed,pending
+EVT_1023,pay_800235246,MID_002,ZapShop,CID_4006,Kavya Reddy,kavya.reddy@gmail.com,9399085574,15358,INR,card,checkout_abandoned,checkout_dropout,medium,0,False,2026-07-16 11:28:00,failed,pending
+EVT_1024,pay_276777762,MID_001,Kirana Plus,CID_4872,Rohit Verma,rohit.verma@gmail.com,9278575192,2999,INR,card,subscription_lapsed,subscription_failure,medium,3,False,2026-08-02 00:13:00,failed,pending
+EVT_1025,pay_303901283,MID_001,Kirana Plus,CID_5345,Arjun Desai,arjun.desai@gmail.com,9941889393,15108,INR,upi,upi_timeout,payment_failure,high,3,False,2026-07-19 22:44:00,failed,pending
+EVT_1026,pay_670292350,MID_002,ZapShop,CID_9883,Priya Patel,priya.patel@gmail.com,9165452690,24708,INR,card,wrong_cvv,payment_failure,high,3,False,2026-07-21 10:03:00,failed,pending
+EVT_1027,pay_228727266,MID_001,Kirana Plus,CID_2312,Rahul Mishra,rahul.mishra@gmail.com,9299528037,2444,INR,upi,network_timeout,payment_failure,high,1,False,2026-08-08 11:43:00,failed,pending
+EVT_1028,pay_319321646,MID_002,ZapShop,CID_1651,Siddharth Nair,siddharth.nair@gmail.com,9765055833,499,INR,card,mandate_rejected,subscription_failure,low,2,True,2026-07-28 06:37:00,failed,pending
+EVT_1029,pay_907308348,MID_003,EduLearn Pro,CID_5351,Pooja Rao,pooja.rao@gmail.com,9524971817,13577,INR,netbanking,invoice_overdue,receivable,medium,3,False,2026-08-13 05:19:00,failed,pending
+EVT_1030,pay_173864104,MID_001,Kirana Plus,CID_2638,Nikhil Bose,nikhil.bose@gmail.com,9178663096,17816,INR,card,insufficient_funds,payment_failure,medium,1,False,2026-07-15 01:16:00,failed,pending
+EVT_1031,pay_421455482,MID_003,EduLearn Pro,CID_3584,Ananya Singh,ananya.singh@gmail.com,9570497096,17999,INR,card,card_expired,payment_failure,low,0,False,2026-08-15 18:39:00,failed,pending
+EVT_1032,pay_749431082,MID_001,Kirana Plus,CID_5333,Karan Mehta,karan.mehta@gmail.com,9223940587,12014,INR,netbanking,invoice_overdue,receivable,medium,2,False,2026-08-18 02:09:00,failed,pending
+EVT_1033,pay_147337803,MID_003,EduLearn Pro,CID_5325,Amit Gupta,amit.gupta@gmail.com,9642678844,16207,INR,card,card_expired,payment_failure,low,3,True,2026-07-17 10:05:00,failed,pending
+EVT_1034,pay_110382761,MID_003,EduLearn Pro,CID_5291,Karan Mehta,karan.mehta@gmail.com,9273497327,24487,INR,card,card_declined,payment_failure,high,3,False,2026-07-30 02:45:00,failed,pending
+EVT_1035,pay_144913399,MID_001,Kirana Plus,CID_9938,Karan Mehta,karan.mehta@gmail.com,9138684919,12297,INR,card,insufficient_funds,payment_failure,medium,3,False,2026-08-08 02:09:00,failed,pending
+EVT_1036,pay_536344399,MID_003,EduLearn Pro,CID_6862,Priya Patel,priya.patel@gmail.com,9325567963,22548,INR,card,wrong_cvv,payment_failure,high,2,False,2026-07-17 06:06:00,failed,pending
+EVT_1037,pay_961393416,MID_002,ZapShop,CID_3662,Pooja Rao,pooja.rao@gmail.com,9958872154,999,INR,card,mandate_rejected,subscription_failure,low,2,True,2026-07-27 09:11:00,failed,pending
+EVT_1038,pay_314289692,MID_002,ZapShop,CID_3608,Suresh Kumar,suresh.kumar@gmail.com,9945436943,12084,INR,netbanking,invoice_overdue,receivable,medium,3,False,2026-07-25 10:54:00,failed,pending
+EVT_1039,pay_174539964,MID_003,EduLearn Pro,CID_4728,Ananya Singh,ananya.singh@gmail.com,9339362341,974,INR,card,checkout_abandoned,checkout_dropout,medium,2,False,2026-08-12 15:25:00,failed,pending
+EVT_1040,pay_723403479,MID_003,EduLearn Pro,CID_7548,Rahul Mishra,rahul.mishra@gmail.com,9829627019,17769,INR,card,wrong_cvv,payment_failure,high,2,False,2026-07-22 09:07:00,failed,pending
+EVT_1041,pay_719106699,MID_001,Kirana Plus,CID_8119,Sneha Nair,sneha.nair@gmail.com,9471178705,24071,INR,card,wrong_cvv,payment_failure,high,0,False,2026-08-20 19:27:00,failed,pending
+EVT_1042,pay_563102056,MID_003,EduLearn Pro,CID_8144,Priya Patel,priya.patel@gmail.com,9101815992,17235,INR,card,card_expired,payment_failure,low,1,False,2026-08-22 02:43:00,failed,pending
+EVT_1043,pay_450236225,MID_003,EduLearn Pro,CID_6143,Riya Chatterjee,riya.chatterjee@gmail.com,9812306873,4282,INR,card,insufficient_funds,payment_failure,medium,2,False,2026-08-16 18:32:00,failed,pending
+EVT_1044,pay_711072118,MID_003,EduLearn Pro,CID_3085,Tanya Kapoor,tanya.kapoor@gmail.com,9305986733,13976,INR,upi,upi_timeout,payment_failure,high,1,False,2026-08-12 21:43:00,failed,pending
+EVT_1045,pay_574364121,MID_004,FoodieHub,CID_1006,Tanya Kapoor,tanya.kapoor@gmail.com,9426283245,9600,INR,card,wrong_cvv,payment_failure,high,2,False,2026-07-14 22:50:00,failed,pending
+EVT_1046,pay_812807629,MID_002,ZapShop,CID_8752,Rahul Mishra,rahul.mishra@gmail.com,9952266893,24314,INR,card,checkout_abandoned,checkout_dropout,medium,2,False,2026-07-12 06:05:00,failed,pending
+EVT_1047,pay_126226563,MID_005,HealthFirst,CID_2530,Vikram Joshi,vikram.joshi@gmail.com,9978775497,20392,INR,netbanking,invoice_overdue,receivable,medium,1,False,2026-08-13 18:14:00,failed,pending
+EVT_1048,pay_529123992,MID_002,ZapShop,CID_2193,Shreya Malhotra,shreya.malhotra@gmail.com,9588999385,13779,INR,card,card_declined,payment_failure,high,3,False,2026-08-11 03:12:00,failed,pending
+EVT_1049,pay_698509918,MID_002,ZapShop,CID_2746,Aarav Sharma,aarav.sharma@gmail.com,9935822550,14130,INR,card,card_expired,payment_failure,low,3,True,2026-07-15 14:51:00,failed,pending
+EVT_1050,pay_757830420,MID_001,Kirana Plus,CID_3184,Nikhil Bose,nikhil.bose@gmail.com,9960514523,15424,INR,card,card_expired,payment_failure,low,2,True,2026-08-13 01:35:00,failed,pending
+EVT_1051,pay_784683755,MID_005,HealthFirst,CID_9976,Kavya Reddy,kavya.reddy@gmail.com,9578796089,5414,INR,upi,payment_gateway_error,payment_failure,high,2,False,2026-08-18 00:28:00,failed,pending
+EVT_1052,pay_460613550,MID_005,HealthFirst,CID_4919,Shreya Malhotra,shreya.malhotra@gmail.com,9394846763,14612,INR,card,wrong_cvv,payment_failure,high,1,False,2026-07-06 07:18:00,failed,pending
+EVT_1053,pay_545461013,MID_005,HealthFirst,CID_3267,Rohit Verma,rohit.verma@gmail.com,9261953189,7776,INR,netbanking,bank_blocked,payment_failure,low,1,False,2026-07-26 07:09:00,failed,pending
+EVT_1054,pay_508431021,MID_003,EduLearn Pro,CID_8633,Tanya Kapoor,tanya.kapoor@gmail.com,9546434187,2239,INR,upi,upi_timeout,payment_failure,high,0,False,2026-07-14 22:24:00,failed,pending
+EVT_1055,pay_335602191,MID_001,Kirana Plus,CID_5892,Meera Pillai,meera.pillai@gmail.com,9909037759,12978,INR,card,checkout_abandoned,checkout_dropout,medium,1,False,2026-08-23 22:34:00,failed,pending
+EVT_1056,pay_601856351,MID_004,FoodieHub,CID_1475,Shreya Malhotra,shreya.malhotra@gmail.com,9517532243,11213,INR,card,wrong_cvv,payment_failure,high,3,False,2026-08-13 06:51:00,failed,pending
+EVT_1057,pay_245706210,MID_005,HealthFirst,CID_1441,Tanya Kapoor,tanya.kapoor@gmail.com,9523076025,19594,INR,upi,network_timeout,payment_failure,high,0,False,2026-08-07 06:01:00,failed,pending
+EVT_1058,pay_398775766,MID_002,ZapShop,CID_5262,Priya Patel,priya.patel@gmail.com,9507059676,10925,INR,card,checkout_abandoned,checkout_dropout,medium,2,False,2026-07-14 23:20:00,failed,pending
+EVT_1059,pay_938842599,MID_003,EduLearn Pro,CID_8705,Rohit Verma,rohit.verma@gmail.com,9120812641,24743,INR,upi,upi_timeout,payment_failure,high,1,False,2026-08-04 10:22:00,failed,pending
+EVT_1060,pay_818825964,MID_001,Kirana Plus,CID_5051,Aarav Sharma,aarav.sharma@gmail.com,9314061901,6335,INR,netbanking,invoice_overdue,receivable,medium,1,False,2026-08-09 13:15:00,failed,pending
